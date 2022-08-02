@@ -19,7 +19,7 @@ openBreweryDB
   ![](assets/images/drink-brewery-finder.png)
 
 ## Website Link
-https://mjd10m.github.io/the-responsible-drinker/
+https://lucasr0609.github.io/The-Responsible-Drinker/
 
 ## Contributers
 Michael Dougherty
